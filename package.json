@@ -25,13 +25,13 @@
   },
   "homepage": "https://github.com/Harkishen-Singh/System-Monitor#readme",
   "devDependencies": {
-    "asar": "^0.14.6",
-    "electron": "^4.0.0",
-    "electron-packager": "^13.0.1",
-    "node-json-db": "^0.9.2",
-    "ps-node": "^0.1.6",
-    "shelljs": "^0.8.3",
-    "tasklist": "^3.1.1"
+    "asar": "0.14.6",
+    "electron": "4.0.0",
+    "electron-packager": "13.0.1",
+    "node-json-db": "0.9.2",
+    "ps-node": "0.1.6",
+    "shelljs": "0.8.3",
+    "tasklist": "3.1.1"
   },
   "dependencies": {}
 }
